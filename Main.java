@@ -1,4 +1,16 @@
-This is a Java file
+//This is a Java file
 
-void test(int A, int B){
+public class Main {
+
+public void test(int A, int B){
+// Do nothing
+}
+
+public static void main(){
+// Do nothing
+}
+
+
+
+
 }
