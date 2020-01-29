@@ -3,7 +3,14 @@
 public class Main {
 
 public void test(int A, int B, int C){
-// Do nothing
+    
+    int h = 10;
+
+    for(int i = 0; i < h; )
+    {
+        ++i;
+    }
+
 }
 
 public static void main(){
