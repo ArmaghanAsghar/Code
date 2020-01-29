@@ -8,7 +8,7 @@ public void test(int A, int B, int C){
 
     for(int i = 0; i < h; )
     {
-        ++i;
+++i;
     }
 
 }
