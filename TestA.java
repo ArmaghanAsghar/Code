@@ -7,7 +7,7 @@ public class TestA {
     }
   
   
-public static int returnSum(int C){
+public static int returnSum(int C, int C){
 
 return 2+1;
 
