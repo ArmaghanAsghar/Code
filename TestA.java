@@ -1,13 +1,13 @@
 public class TestA {
 
-    public void addMessage(){
+    public void addMessage(int A){
     
       System.out.println("Hello World\n");
       
     }
   
   
-public static int returnSum(){
+public static int returnSum(int C){
 
 return 2+1;
 
