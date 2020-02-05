@@ -1,17 +1,19 @@
 public class TestA {
 
-    public void addMessage(int A){
-    
-      System.out.println("Hello World\n");
-      
-    }
-  
+   
   
 public static int returnSum(int C, int C){
 
 return 2+1;
 
 }
+    
+     public void addMessage(int A, int K){
+    
+      System.out.println("Hello World\n");
+      
+    }
+  
 
 
 }
